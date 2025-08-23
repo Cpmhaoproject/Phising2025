@@ -54,9 +54,6 @@ Save or analyze data as needed.
 > Note: Internet connection is required for live 
 intelligence.
 
-# screenshot
-![-215532](https://github.com/user-attachments/assets/fb193e15-394f-4312-82cf-c3ec88e5aa98)
-
 # ⚠️ Legal & Ethical Notice
 
 This tool is strictly intended for educational, research, and authorized testing purposes only.
